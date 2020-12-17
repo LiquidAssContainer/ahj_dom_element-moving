@@ -2,4 +2,4 @@
 
 # README
 
-[Ссылка на GitHub Pages](https://liquidasscontainer.github.io/ahj_dom-element-moving/).
+[Ссылка на GitHub Pages](https://liquidasscontainer.github.io/ahj_dom_element-moving/).
